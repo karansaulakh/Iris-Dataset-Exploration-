@@ -18,8 +18,7 @@ When you click the **Knit** button a document will be generated that includes bo
 ## R Packages
 
 R is an open-source programming language, meaning that users can contribute
-packages that make our lives easier, and we can use them for free. For this lab,
-and many others in the future, we will use the following R packages:
+packages that make our lives easier, and we can use them for free. For this dataset, we will use the following R packages:
 
 
 - `dplyr`: for data wrangling
